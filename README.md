@@ -14,5 +14,6 @@ dependencies:
   get: ^3.23.1
   transparent_image: ^1.0.0
   
-```dart 
-"# flutter_api_com_getx" 
+``` 
+Canal Youtube Rodrigo Rahman
+- Link do video https://www.youtube.com/watch?v=ixCX9BiOVrI&t=45s
